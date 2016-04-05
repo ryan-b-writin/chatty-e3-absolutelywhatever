@@ -2,9 +2,9 @@
 
 ## Contributors
 
-[Sylvia Ma](https://github.com/sylviama0827)
+[Sylvia Ma](https://github.com/sylviama0827)  
 [Matt Bruton](https://github.com/mattbruton)  
-[Ryan Bliton](https://github.com/ryan-b-writin)
+[Ryan Bliton](https://github.com/ryan-b-writin)  
 
 ## Requirements
 
