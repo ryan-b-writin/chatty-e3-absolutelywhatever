@@ -1,14 +1,10 @@
 # Chatty Group Project
 
-## Setup
+## Contributors
 
-Every teammate copy and run the following commands in the host machine terminal.
-
-```bash
-mkdir -p ~/workspace/group-projects && cd $_
-git clone [Github Classroom repo URL]
-cd [repo name]
-```
+[Sylvia Ma](https://github.com/sylviama0827)
+[Matt Bruton](https://github.com/mattbruton)  
+[Ryan Bliton](https://github.com/ryan-b-writin)
 
 ## Requirements
 
