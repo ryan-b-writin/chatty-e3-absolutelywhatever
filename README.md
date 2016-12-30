@@ -1,5 +1,7 @@
 # Chatty Group Project
 
+View this page at: http://www.midnightthunder.net/projects/absolutelywhatever/chatty-e3-absolutelywhatever/index.html
+
 ## Contributors
 
 [Sylvia Ma](https://github.com/sylviama0827)  
